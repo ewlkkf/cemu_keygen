@@ -14,5 +14,5 @@ There are 2 variants of the serial algorithm, one with a simple HWID system and 
 checks and including various forms of obfuscation, which involved some time deobfuscating and rewriting code.
 
 Works up to 1.7.2c. This loader/keygen might be worthless now for the time being, but I found it fun REing it.
-Might work on reverse engineering it more when I feel like.
+Was a good exercise in 64bit reversing.
 
